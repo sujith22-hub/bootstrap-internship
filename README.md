@@ -16,7 +16,6 @@ bootstrap-internship/
 ├── contact.html
 ├── css/
 │ └── style.css
-├── README.md
 
 ## Features Implemented
 ### Home Page
